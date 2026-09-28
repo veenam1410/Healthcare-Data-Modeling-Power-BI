@@ -325,6 +325,10 @@ Healthcare-Data-Modeling-Power-BI/
 └── screenshots/
     └── healthcare_data_model.png
 ```
-### 👩‍💻 Author
+## 👩‍💻 Author
 
-[Veena M](https://www.linkedin.com/in/veenam1410/)
+### Veena M
+
+[LinkedIn](https://www.linkedin.com/in/veenam1410)
+
+[GitHub](https://github.com/veenam1410)
