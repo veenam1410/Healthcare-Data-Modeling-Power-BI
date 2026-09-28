@@ -1,0 +1,7 @@
+test_code,test_name,department,standard_price
+LAB01,CBC,Hematology,80
+LAB02,Glucose,Biochemistry,40
+LAB03,Lipid Profile,Biochemistry,120
+LAB04,Thyroid,Hormone,150
+LAB05,Liver Function,Biochemistry,130
+LAB06,Kidney Function,Biochemistry,130

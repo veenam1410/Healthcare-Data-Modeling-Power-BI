@@ -1,0 +1,6 @@
+plan_id,payer_name,plan_type
+INS01,HealthPlus,Gold
+INS02,CareShield,Silver
+INS03,MediSecure,Gold
+INS04,National Health,Government
+INS05,CorporateCare,Corporate

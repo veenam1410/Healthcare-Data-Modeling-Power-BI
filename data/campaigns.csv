@@ -1,0 +1,5 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget
+C01,Heart Health Month,Digital,2025-02-01,2025-02-28,15000
+C02,Wellness Week,Email,2025-06-01,2025-06-07,6000
+C03,Senior Care,Search,2025-09-01,2025-09-30,12000
+C04,Annual Health Camp,Mixed,2025-11-01,2025-11-30,20000

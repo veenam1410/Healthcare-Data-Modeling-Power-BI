@@ -1,0 +1,7 @@
+ward_id,ward_name,facility_code
+W01,Cardiac Ward,F01
+W02,Orthopedic Ward,F01
+W03,General Ward,F03
+W04,ICU,F04
+W05,Pediatric Ward,F03
+W06,General Ward,F06

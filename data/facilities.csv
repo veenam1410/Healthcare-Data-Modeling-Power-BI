@@ -1,0 +1,7 @@
+facility_code,facility_name,city_code,facility_type
+F01,Central Hospital,BLR,Hospital
+F02,City Medical Center,MYS,Clinic
+F03,Metro Hospital,CHN,Hospital
+F04,Lakeview Hospital,HYD,Hospital
+F05,North Care,DEL,Clinic
+F06,Bay Medical,SFO,Hospital

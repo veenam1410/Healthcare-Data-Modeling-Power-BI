@@ -1,0 +1,1551 @@
+appointment_id,symptom_group,priority,notes
+APT0000001,Respiratory,Routine,Patient requested specialist
+APT0000002,Injury,Routine,Patient requested specialist
+APT0000003,Routine Check,Urgent,Review previous report
+APT0000004,Skin,Urgent,Review previous report
+APT0000005,Pain,Urgent,Review previous report
+APT0000006,Pain,Routine,
+APT0000007,Respiratory,Routine,Patient requested specialist
+APT0000008,Routine Check,Routine,Follow-up required
+APT0000009,Fever,Urgent,Review previous report
+APT0000010,Respiratory,Urgent,
+APT0000011,Routine Check,Emergency,Patient requested specialist
+APT0000012,Pain,Urgent,Review previous report
+APT0000013,Respiratory,Emergency,
+APT0000014,Injury,Routine,Review previous report
+APT0000015,Fever,Urgent,Follow-up required
+APT0000016,Pain,Routine,Follow-up required
+APT0000017,Respiratory,Emergency,Review previous report
+APT0000018,Injury,Urgent,Follow-up required
+APT0000019,Skin,Urgent,Follow-up required
+APT0000020,Routine Check,Routine,Patient requested specialist
+APT0000021,Respiratory,Routine,
+APT0000022,Skin,Routine,Patient requested specialist
+APT0000023,Skin,Urgent,
+APT0000024,Other,Urgent,Follow-up required
+APT0000025,Injury,Urgent,Review previous report
+APT0000026,Respiratory,Urgent,
+APT0000027,Skin,Urgent,Patient requested specialist
+APT0000028,Routine Check,Routine,Patient requested specialist
+APT0000029,Other,Routine,Follow-up required
+APT0000030,Pain,Urgent,Patient requested specialist
+APT0000031,Routine Check,Routine,Review previous report
+APT0000032,Injury,Emergency,Review previous report
+APT0000033,Injury,Routine,Review previous report
+APT0000034,Fever,Emergency,
+APT0000035,Other,Emergency,Patient requested specialist
+APT0000036,Fever,Emergency,
+APT0000037,Other,Routine,Patient requested specialist
+APT0000038,Injury,Emergency,
+APT0000039,Pain,Emergency,Review previous report
+APT0000040,Pain,Emergency,
+APT0000041,Routine Check,Emergency,
+APT0000042,Pain,Emergency,Follow-up required
+APT0000043,Pain,Routine,Review previous report
+APT0000044,Skin,Routine,Review previous report
+APT0000045,Skin,Routine,Patient requested specialist
+APT0000046,Respiratory,Urgent,
+APT0000047,Skin,Routine,Follow-up required
+APT0000048,Respiratory,Routine,Review previous report
+APT0000049,Skin,Routine,Follow-up required
+APT0000050,Skin,Emergency,
+APT0000051,Injury,Urgent,
+APT0000052,Injury,Emergency,Review previous report
+APT0000053,Fever,Urgent,
+APT0000054,Pain,Routine,Follow-up required
+APT0000055,Fever,Urgent,Patient requested specialist
+APT0000056,Respiratory,Routine,Review previous report
+APT0000057,Respiratory,Emergency,Review previous report
+APT0000058,Injury,Urgent,
+APT0000059,Other,Urgent,Follow-up required
+APT0000060,Fever,Emergency,Review previous report
+APT0000061,Pain,Routine,
+APT0000062,Routine Check,Routine,Patient requested specialist
+APT0000063,Fever,Routine,
+APT0000064,Skin,Routine,Follow-up required
+APT0000065,Pain,Routine,Follow-up required
+APT0000066,Injury,Routine,Patient requested specialist
+APT0000067,Other,Routine,Review previous report
+APT0000068,Respiratory,Routine,Review previous report
+APT0000069,Fever,Routine,Patient requested specialist
+APT0000070,Respiratory,Routine,Patient requested specialist
+APT0000071,Other,Routine,Review previous report
+APT0000072,Other,Routine,Follow-up required
+APT0000073,Injury,Urgent,Review previous report
+APT0000074,Routine Check,Routine,Follow-up required
+APT0000075,Skin,Urgent,Patient requested specialist
+APT0000076,Respiratory,Routine,Follow-up required
+APT0000077,Fever,Routine,Follow-up required
+APT0000078,Skin,Urgent,Patient requested specialist
+APT0000079,Other,Routine,Patient requested specialist
+APT0000080,Fever,Emergency,Review previous report
+APT0000081,Fever,Routine,Review previous report
+APT0000082,Pain,Routine,Follow-up required
+APT0000083,Fever,Urgent,Patient requested specialist
+APT0000084,Other,Urgent,Review previous report
+APT0000085,Fever,Routine,Follow-up required
+APT0000086,Skin,Emergency,Review previous report
+APT0000087,Fever,Routine,
+APT0000088,Pain,Urgent,
+APT0000089,Skin,Urgent,Patient requested specialist
+APT0000090,Injury,Urgent,Follow-up required
+APT0000091,Pain,Routine,Review previous report
+APT0000092,Other,Routine,Review previous report
+APT0000093,Fever,Routine,
+APT0000094,Skin,Routine,Follow-up required
+APT0000095,Other,Routine,
+APT0000096,Pain,Urgent,Review previous report
+APT0000097,Respiratory,Routine,
+APT0000098,Pain,Routine,Patient requested specialist
+APT0000099,Respiratory,Urgent,Patient requested specialist
+APT0000100,Pain,Urgent,Review previous report
+APT0000101,Respiratory,Routine,
+APT0000102,Pain,Emergency,Review previous report
+APT0000103,Respiratory,Routine,Patient requested specialist
+APT0000104,Routine Check,Routine,
+APT0000105,Respiratory,Routine,Follow-up required
+APT0000106,Skin,Routine,Patient requested specialist
+APT0000107,Skin,Urgent,Review previous report
+APT0000108,Other,Routine,Patient requested specialist
+APT0000109,Respiratory,Routine,Patient requested specialist
+APT0000110,Routine Check,Urgent,Review previous report
+APT0000111,Pain,Routine,
+APT0000112,Pain,Emergency,Follow-up required
+APT0000113,Injury,Emergency,Patient requested specialist
+APT0000114,Respiratory,Routine,Review previous report
+APT0000115,Injury,Urgent,Patient requested specialist
+APT0000116,Respiratory,Routine,
+APT0000117,Injury,Routine,
+APT0000118,Respiratory,Routine,Follow-up required
+APT0000119,Fever,Routine,Review previous report
+APT0000120,Other,Routine,Patient requested specialist
+APT0000121,Pain,Urgent,Follow-up required
+APT0000122,Routine Check,Routine,Review previous report
+APT0000123,Routine Check,Routine,Patient requested specialist
+APT0000124,Routine Check,Urgent,Review previous report
+APT0000125,Other,Emergency,Follow-up required
+APT0000126,Fever,Emergency,Follow-up required
+APT0000127,Pain,Emergency,Review previous report
+APT0000128,Skin,Emergency,Review previous report
+APT0000129,Routine Check,Urgent,
+APT0000130,Other,Emergency,Follow-up required
+APT0000131,Skin,Routine,
+APT0000132,Pain,Emergency,Patient requested specialist
+APT0000133,Respiratory,Urgent,
+APT0000134,Pain,Emergency,Patient requested specialist
+APT0000135,Injury,Emergency,
+APT0000136,Fever,Urgent,Patient requested specialist
+APT0000137,Pain,Routine,Review previous report
+APT0000138,Skin,Emergency,Patient requested specialist
+APT0000139,Injury,Routine,Patient requested specialist
+APT0000140,Injury,Routine,
+APT0000141,Respiratory,Urgent,Follow-up required
+APT0000142,Fever,Routine,Follow-up required
+APT0000143,Injury,Routine,Patient requested specialist
+APT0000144,Pain,Routine,Review previous report
+APT0000145,Fever,Urgent,Review previous report
+APT0000146,Other,Urgent,Review previous report
+APT0000147,Other,Routine,Patient requested specialist
+APT0000148,Injury,Urgent,Follow-up required
+APT0000149,Respiratory,Emergency,Patient requested specialist
+APT0000150,Skin,Routine,
+APT0000151,Skin,Routine,Follow-up required
+APT0000152,Routine Check,Routine,Patient requested specialist
+APT0000153,Fever,Routine,Patient requested specialist
+APT0000154,Respiratory,Routine,Follow-up required
+APT0000155,Other,Urgent,
+APT0000156,Pain,Emergency,Review previous report
+APT0000157,Fever,Urgent,
+APT0000158,Respiratory,Routine,Patient requested specialist
+APT0000159,Fever,Routine,
+APT0000160,Skin,Emergency,Review previous report
+APT0000161,Pain,Routine,Follow-up required
+APT0000162,Routine Check,Routine,Review previous report
+APT0000163,Skin,Routine,Patient requested specialist
+APT0000164,Fever,Urgent,
+APT0000165,Skin,Emergency,Follow-up required
+APT0000166,Other,Routine,
+APT0000167,Pain,Emergency,Follow-up required
+APT0000168,Skin,Emergency,
+APT0000169,Other,Urgent,Review previous report
+APT0000170,Injury,Routine,
+APT0000171,Fever,Routine,Follow-up required
+APT0000172,Fever,Urgent,
+APT0000173,Routine Check,Urgent,Review previous report
+APT0000174,Skin,Routine,Review previous report
+APT0000175,Routine Check,Emergency,Patient requested specialist
+APT0000176,Injury,Routine,Review previous report
+APT0000177,Other,Routine,Patient requested specialist
+APT0000178,Routine Check,Emergency,Follow-up required
+APT0000179,Injury,Emergency,Review previous report
+APT0000180,Skin,Emergency,Review previous report
+APT0000181,Injury,Emergency,Patient requested specialist
+APT0000182,Injury,Routine,
+APT0000183,Fever,Urgent,
+APT0000184,Fever,Urgent,Patient requested specialist
+APT0000185,Skin,Routine,Review previous report
+APT0000186,Fever,Routine,Review previous report
+APT0000187,Skin,Emergency,Follow-up required
+APT0000188,Pain,Urgent,
+APT0000189,Respiratory,Routine,Patient requested specialist
+APT0000190,Pain,Emergency,Follow-up required
+APT0000191,Pain,Emergency,Review previous report
+APT0000192,Fever,Emergency,Follow-up required
+APT0000193,Fever,Routine,Patient requested specialist
+APT0000194,Fever,Routine,Review previous report
+APT0000195,Injury,Emergency,Patient requested specialist
+APT0000196,Routine Check,Urgent,Patient requested specialist
+APT0000197,Other,Routine,Follow-up required
+APT0000198,Routine Check,Routine,Review previous report
+APT0000199,Other,Routine,Patient requested specialist
+APT0000200,Injury,Emergency,
+APT0000201,Other,Routine,
+APT0000202,Injury,Routine,Patient requested specialist
+APT0000203,Pain,Emergency,Follow-up required
+APT0000204,Injury,Routine,Patient requested specialist
+APT0000205,Other,Routine,Follow-up required
+APT0000206,Skin,Urgent,Patient requested specialist
+APT0000207,Skin,Routine,Review previous report
+APT0000208,Injury,Routine,Follow-up required
+APT0000209,Respiratory,Routine,Patient requested specialist
+APT0000210,Routine Check,Emergency,Patient requested specialist
+APT0000211,Skin,Routine,Review previous report
+APT0000212,Injury,Urgent,
+APT0000213,Skin,Emergency,
+APT0000214,Other,Emergency,Follow-up required
+APT0000215,Skin,Urgent,Follow-up required
+APT0000216,Injury,Routine,
+APT0000217,Routine Check,Emergency,
+APT0000218,Respiratory,Emergency,
+APT0000219,Other,Urgent,
+APT0000220,Pain,Routine,
+APT0000221,Skin,Routine,Patient requested specialist
+APT0000222,Fever,Emergency,Follow-up required
+APT0000223,Other,Urgent,
+APT0000224,Routine Check,Routine,Follow-up required
+APT0000225,Fever,Routine,Review previous report
+APT0000226,Skin,Routine,Follow-up required
+APT0000227,Injury,Emergency,
+APT0000228,Skin,Urgent,
+APT0000229,Skin,Emergency,
+APT0000230,Routine Check,Routine,Patient requested specialist
+APT0000231,Skin,Routine,
+APT0000232,Fever,Routine,Review previous report
+APT0000233,Injury,Routine,Follow-up required
+APT0000234,Injury,Routine,Patient requested specialist
+APT0000235,Other,Urgent,
+APT0000236,Skin,Routine,
+APT0000237,Routine Check,Emergency,Follow-up required
+APT0000238,Other,Routine,Patient requested specialist
+APT0000239,Other,Emergency,Follow-up required
+APT0000240,Other,Urgent,
+APT0000241,Pain,Routine,Review previous report
+APT0000242,Fever,Emergency,
+APT0000243,Pain,Urgent,
+APT0000244,Other,Emergency,Review previous report
+APT0000245,Skin,Routine,
+APT0000246,Routine Check,Routine,Review previous report
+APT0000247,Skin,Routine,Patient requested specialist
+APT0000248,Other,Routine,Follow-up required
+APT0000249,Respiratory,Urgent,Follow-up required
+APT0000250,Fever,Urgent,Follow-up required
+APT0000251,Injury,Emergency,Follow-up required
+APT0000252,Respiratory,Urgent,
+APT0000253,Respiratory,Urgent,Review previous report
+APT0000254,Routine Check,Urgent,Patient requested specialist
+APT0000255,Routine Check,Urgent,Review previous report
+APT0000256,Fever,Emergency,Review previous report
+APT0000257,Skin,Urgent,Patient requested specialist
+APT0000258,Injury,Urgent,Review previous report
+APT0000259,Routine Check,Routine,
+APT0000260,Injury,Routine,Review previous report
+APT0000261,Skin,Routine,Patient requested specialist
+APT0000262,Respiratory,Routine,Patient requested specialist
+APT0000263,Fever,Urgent,
+APT0000264,Injury,Urgent,Review previous report
+APT0000265,Fever,Emergency,
+APT0000266,Respiratory,Routine,Follow-up required
+APT0000267,Routine Check,Emergency,
+APT0000268,Other,Routine,
+APT0000269,Routine Check,Routine,Patient requested specialist
+APT0000270,Respiratory,Routine,Patient requested specialist
+APT0000271,Pain,Routine,Review previous report
+APT0000272,Fever,Emergency,Patient requested specialist
+APT0000273,Other,Emergency,Review previous report
+APT0000274,Routine Check,Routine,
+APT0000275,Pain,Emergency,
+APT0000276,Fever,Routine,Review previous report
+APT0000277,Injury,Routine,Review previous report
+APT0000278,Routine Check,Routine,Review previous report
+APT0000279,Fever,Routine,Follow-up required
+APT0000280,Injury,Routine,
+APT0000281,Injury,Routine,Patient requested specialist
+APT0000282,Injury,Routine,Follow-up required
+APT0000283,Routine Check,Emergency,Patient requested specialist
+APT0000284,Pain,Urgent,Review previous report
+APT0000285,Injury,Routine,
+APT0000286,Skin,Urgent,Review previous report
+APT0000287,Respiratory,Routine,Review previous report
+APT0000288,Pain,Emergency,Follow-up required
+APT0000289,Respiratory,Routine,
+APT0000290,Other,Routine,Review previous report
+APT0000291,Pain,Routine,
+APT0000292,Injury,Routine,
+APT0000293,Respiratory,Urgent,Patient requested specialist
+APT0000294,Other,Routine,Review previous report
+APT0000295,Routine Check,Emergency,Review previous report
+APT0000296,Pain,Emergency,Patient requested specialist
+APT0000297,Respiratory,Routine,Review previous report
+APT0000298,Fever,Emergency,Patient requested specialist
+APT0000299,Skin,Routine,Patient requested specialist
+APT0000300,Injury,Routine,
+APT0000301,Other,Emergency,Follow-up required
+APT0000302,Respiratory,Routine,Follow-up required
+APT0000303,Respiratory,Routine,Follow-up required
+APT0000304,Fever,Routine,
+APT0000305,Routine Check,Routine,Follow-up required
+APT0000306,Injury,Urgent,
+APT0000307,Other,Urgent,Follow-up required
+APT0000308,Respiratory,Routine,
+APT0000309,Skin,Routine,Follow-up required
+APT0000310,Routine Check,Routine,Follow-up required
+APT0000311,Injury,Routine,Review previous report
+APT0000312,Other,Routine,Follow-up required
+APT0000313,Skin,Routine,Review previous report
+APT0000314,Other,Emergency,
+APT0000315,Routine Check,Urgent,Follow-up required
+APT0000316,Skin,Routine,Follow-up required
+APT0000317,Pain,Urgent,Follow-up required
+APT0000318,Pain,Emergency,Patient requested specialist
+APT0000319,Routine Check,Routine,Review previous report
+APT0000320,Pain,Urgent,Follow-up required
+APT0000321,Fever,Emergency,Patient requested specialist
+APT0000322,Fever,Routine,Patient requested specialist
+APT0000323,Routine Check,Routine,Patient requested specialist
+APT0000324,Routine Check,Urgent,
+APT0000325,Other,Routine,Review previous report
+APT0000326,Routine Check,Routine,Follow-up required
+APT0000327,Injury,Emergency,Patient requested specialist
+APT0000328,Injury,Routine,
+APT0000329,Pain,Urgent,Follow-up required
+APT0000330,Other,Urgent,
+APT0000331,Other,Emergency,Follow-up required
+APT0000332,Respiratory,Emergency,Review previous report
+APT0000333,Fever,Emergency,
+APT0000334,Skin,Routine,Follow-up required
+APT0000335,Respiratory,Routine,Review previous report
+APT0000336,Routine Check,Routine,Review previous report
+APT0000337,Routine Check,Routine,Patient requested specialist
+APT0000338,Skin,Routine,Follow-up required
+APT0000339,Routine Check,Urgent,Review previous report
+APT0000340,Injury,Routine,Patient requested specialist
+APT0000341,Fever,Urgent,
+APT0000342,Other,Routine,
+APT0000343,Injury,Emergency,Follow-up required
+APT0000344,Other,Urgent,
+APT0000345,Other,Routine,
+APT0000346,Respiratory,Urgent,Review previous report
+APT0000347,Other,Emergency,Review previous report
+APT0000348,Respiratory,Routine,Review previous report
+APT0000349,Other,Routine,Review previous report
+APT0000350,Pain,Routine,Patient requested specialist
+APT0000351,Respiratory,Urgent,Patient requested specialist
+APT0000352,Respiratory,Routine,Follow-up required
+APT0000353,Skin,Urgent,Follow-up required
+APT0000354,Pain,Routine,Follow-up required
+APT0000355,Skin,Emergency,Follow-up required
+APT0000356,Skin,Urgent,Review previous report
+APT0000357,Injury,Routine,Patient requested specialist
+APT0000358,Routine Check,Urgent,
+APT0000359,Respiratory,Emergency,Review previous report
+APT0000360,Fever,Emergency,
+APT0000361,Injury,Emergency,Patient requested specialist
+APT0000362,Other,Emergency,Patient requested specialist
+APT0000363,Fever,Emergency,
+APT0000364,Pain,Routine,Follow-up required
+APT0000365,Respiratory,Routine,Follow-up required
+APT0000366,Pain,Emergency,Follow-up required
+APT0000367,Injury,Routine,Review previous report
+APT0000368,Skin,Routine,Review previous report
+APT0000369,Fever,Routine,Follow-up required
+APT0000370,Skin,Routine,Review previous report
+APT0000371,Pain,Emergency,
+APT0000372,Routine Check,Routine,Patient requested specialist
+APT0000373,Fever,Routine,Review previous report
+APT0000374,Other,Emergency,
+APT0000375,Injury,Routine,Follow-up required
+APT0000376,Respiratory,Routine,Patient requested specialist
+APT0000377,Fever,Routine,
+APT0000378,Skin,Routine,
+APT0000379,Routine Check,Emergency,Patient requested specialist
+APT0000380,Respiratory,Routine,Follow-up required
+APT0000381,Injury,Routine,Review previous report
+APT0000382,Respiratory,Routine,
+APT0000383,Skin,Routine,Patient requested specialist
+APT0000384,Fever,Routine,
+APT0000385,Respiratory,Emergency,
+APT0000386,Pain,Routine,Follow-up required
+APT0000387,Other,Routine,
+APT0000388,Fever,Routine,Patient requested specialist
+APT0000389,Pain,Routine,Review previous report
+APT0000390,Routine Check,Routine,
+APT0000391,Routine Check,Routine,Patient requested specialist
+APT0000392,Respiratory,Emergency,
+APT0000393,Injury,Emergency,
+APT0000394,Fever,Routine,Review previous report
+APT0000395,Injury,Urgent,
+APT0000396,Skin,Emergency,
+APT0000397,Fever,Routine,Patient requested specialist
+APT0000398,Skin,Routine,Follow-up required
+APT0000399,Injury,Emergency,Review previous report
+APT0000400,Fever,Routine,Review previous report
+APT0000401,Pain,Emergency,
+APT0000402,Injury,Routine,
+APT0000403,Pain,Routine,Patient requested specialist
+APT0000404,Fever,Routine,Review previous report
+APT0000405,Fever,Emergency,Review previous report
+APT0000406,Routine Check,Emergency,Patient requested specialist
+APT0000407,Injury,Urgent,Follow-up required
+APT0000408,Other,Routine,Review previous report
+APT0000409,Pain,Emergency,
+APT0000410,Respiratory,Routine,
+APT0000411,Pain,Routine,
+APT0000412,Injury,Routine,Patient requested specialist
+APT0000413,Respiratory,Routine,Review previous report
+APT0000414,Respiratory,Routine,Patient requested specialist
+APT0000415,Skin,Routine,Follow-up required
+APT0000416,Routine Check,Routine,
+APT0000417,Skin,Emergency,Review previous report
+APT0000418,Routine Check,Routine,Review previous report
+APT0000419,Skin,Urgent,Review previous report
+APT0000420,Fever,Routine,Follow-up required
+APT0000421,Respiratory,Emergency,
+APT0000422,Respiratory,Emergency,
+APT0000423,Other,Routine,
+APT0000424,Fever,Emergency,Review previous report
+APT0000425,Other,Urgent,
+APT0000426,Injury,Emergency,Review previous report
+APT0000427,Skin,Routine,Patient requested specialist
+APT0000428,Injury,Urgent,
+APT0000429,Skin,Routine,Patient requested specialist
+APT0000430,Fever,Urgent,
+APT0000431,Routine Check,Routine,
+APT0000432,Skin,Emergency,
+APT0000433,Routine Check,Routine,Patient requested specialist
+APT0000434,Other,Routine,
+APT0000435,Respiratory,Urgent,Patient requested specialist
+APT0000436,Other,Routine,Review previous report
+APT0000437,Injury,Urgent,Follow-up required
+APT0000438,Injury,Emergency,Follow-up required
+APT0000439,Respiratory,Routine,Follow-up required
+APT0000440,Fever,Emergency,
+APT0000441,Routine Check,Routine,Follow-up required
+APT0000442,Respiratory,Routine,
+APT0000443,Other,Urgent,Follow-up required
+APT0000444,Injury,Routine,Follow-up required
+APT0000445,Injury,Routine,
+APT0000446,Respiratory,Emergency,Review previous report
+APT0000447,Routine Check,Routine,Review previous report
+APT0000448,Other,Urgent,Review previous report
+APT0000449,Respiratory,Routine,
+APT0000450,Routine Check,Routine,Patient requested specialist
+APT0000451,Injury,Urgent,Follow-up required
+APT0000452,Fever,Emergency,Patient requested specialist
+APT0000453,Other,Routine,Patient requested specialist
+APT0000454,Other,Routine,Patient requested specialist
+APT0000455,Pain,Routine,
+APT0000456,Pain,Emergency,
+APT0000457,Fever,Routine,Patient requested specialist
+APT0000458,Respiratory,Routine,Review previous report
+APT0000459,Injury,Routine,
+APT0000460,Routine Check,Routine,Follow-up required
+APT0000461,Injury,Routine,Review previous report
+APT0000462,Skin,Routine,Patient requested specialist
+APT0000463,Respiratory,Routine,
+APT0000464,Fever,Routine,Patient requested specialist
+APT0000465,Fever,Emergency,Review previous report
+APT0000466,Injury,Emergency,Patient requested specialist
+APT0000467,Injury,Routine,
+APT0000468,Routine Check,Urgent,Patient requested specialist
+APT0000469,Pain,Emergency,Follow-up required
+APT0000470,Injury,Urgent,Follow-up required
+APT0000471,Routine Check,Routine,Follow-up required
+APT0000472,Skin,Urgent,Review previous report
+APT0000473,Pain,Emergency,Patient requested specialist
+APT0000474,Routine Check,Routine,Follow-up required
+APT0000475,Pain,Routine,
+APT0000476,Pain,Routine,Review previous report
+APT0000477,Other,Urgent,Patient requested specialist
+APT0000478,Fever,Routine,Patient requested specialist
+APT0000479,Respiratory,Routine,Follow-up required
+APT0000480,Injury,Routine,Follow-up required
+APT0000481,Fever,Routine,Follow-up required
+APT0000482,Respiratory,Routine,Follow-up required
+APT0000483,Routine Check,Urgent,
+APT0000484,Pain,Routine,
+APT0000485,Fever,Emergency,Follow-up required
+APT0000486,Respiratory,Urgent,Patient requested specialist
+APT0000487,Fever,Urgent,Patient requested specialist
+APT0000488,Routine Check,Routine,Patient requested specialist
+APT0000489,Fever,Urgent,Patient requested specialist
+APT0000490,Pain,Emergency,Patient requested specialist
+APT0000491,Injury,Routine,Follow-up required
+APT0000492,Routine Check,Emergency,Patient requested specialist
+APT0000493,Routine Check,Emergency,Patient requested specialist
+APT0000494,Other,Routine,Follow-up required
+APT0000495,Respiratory,Emergency,Follow-up required
+APT0000496,Other,Routine,
+APT0000497,Pain,Urgent,Review previous report
+APT0000498,Fever,Routine,Review previous report
+APT0000499,Respiratory,Urgent,
+APT0000500,Pain,Emergency,
+APT0000501,Respiratory,Emergency,Follow-up required
+APT0000502,Routine Check,Emergency,Review previous report
+APT0000503,Pain,Urgent,Patient requested specialist
+APT0000504,Fever,Emergency,Follow-up required
+APT0000505,Skin,Urgent,
+APT0000506,Pain,Routine,
+APT0000507,Respiratory,Routine,Follow-up required
+APT0000508,Fever,Emergency,Review previous report
+APT0000509,Pain,Routine,Review previous report
+APT0000510,Respiratory,Routine,Follow-up required
+APT0000511,Other,Routine,Follow-up required
+APT0000512,Pain,Emergency,Review previous report
+APT0000513,Injury,Urgent,Patient requested specialist
+APT0000514,Other,Emergency,Patient requested specialist
+APT0000515,Fever,Routine,Review previous report
+APT0000516,Pain,Emergency,
+APT0000517,Pain,Emergency,Follow-up required
+APT0000518,Fever,Urgent,Patient requested specialist
+APT0000519,Other,Urgent,Patient requested specialist
+APT0000520,Pain,Routine,Review previous report
+APT0000521,Skin,Routine,Review previous report
+APT0000522,Routine Check,Urgent,Follow-up required
+APT0000523,Skin,Urgent,Patient requested specialist
+APT0000524,Other,Routine,Review previous report
+APT0000525,Skin,Urgent,Follow-up required
+APT0000526,Skin,Routine,
+APT0000527,Injury,Routine,Review previous report
+APT0000528,Fever,Routine,Review previous report
+APT0000529,Respiratory,Routine,Patient requested specialist
+APT0000530,Other,Routine,Review previous report
+APT0000531,Other,Routine,
+APT0000532,Pain,Routine,Patient requested specialist
+APT0000533,Routine Check,Routine,Patient requested specialist
+APT0000534,Fever,Urgent,
+APT0000535,Injury,Routine,Patient requested specialist
+APT0000536,Pain,Routine,
+APT0000537,Skin,Emergency,Follow-up required
+APT0000538,Respiratory,Routine,Patient requested specialist
+APT0000539,Other,Emergency,Follow-up required
+APT0000540,Other,Routine,Patient requested specialist
+APT0000541,Injury,Urgent,
+APT0000542,Respiratory,Routine,Follow-up required
+APT0000543,Routine Check,Routine,Review previous report
+APT0000544,Fever,Urgent,Patient requested specialist
+APT0000545,Respiratory,Routine,Review previous report
+APT0000546,Injury,Routine,
+APT0000547,Fever,Routine,Review previous report
+APT0000548,Fever,Routine,Patient requested specialist
+APT0000549,Skin,Urgent,
+APT0000550,Fever,Urgent,Review previous report
+APT0000551,Respiratory,Urgent,Patient requested specialist
+APT0000552,Skin,Urgent,Review previous report
+APT0000553,Fever,Urgent,
+APT0000554,Routine Check,Routine,Follow-up required
+APT0000555,Skin,Emergency,Follow-up required
+APT0000556,Routine Check,Routine,Patient requested specialist
+APT0000557,Skin,Routine,Follow-up required
+APT0000558,Fever,Routine,Review previous report
+APT0000559,Skin,Emergency,
+APT0000560,Other,Urgent,
+APT0000561,Routine Check,Urgent,
+APT0000562,Routine Check,Routine,Follow-up required
+APT0000563,Injury,Routine,Follow-up required
+APT0000564,Routine Check,Urgent,Review previous report
+APT0000565,Respiratory,Emergency,
+APT0000566,Fever,Emergency,Follow-up required
+APT0000567,Routine Check,Emergency,Follow-up required
+APT0000568,Pain,Routine,
+APT0000569,Fever,Emergency,Follow-up required
+APT0000570,Skin,Routine,Follow-up required
+APT0000571,Respiratory,Urgent,Review previous report
+APT0000572,Routine Check,Urgent,Patient requested specialist
+APT0000573,Other,Emergency,Review previous report
+APT0000574,Routine Check,Urgent,Review previous report
+APT0000575,Skin,Emergency,Review previous report
+APT0000576,Skin,Urgent,Review previous report
+APT0000577,Injury,Routine,Patient requested specialist
+APT0000578,Routine Check,Routine,
+APT0000579,Routine Check,Urgent,Follow-up required
+APT0000580,Skin,Emergency,Follow-up required
+APT0000581,Respiratory,Urgent,
+APT0000582,Pain,Urgent,
+APT0000583,Injury,Routine,
+APT0000584,Respiratory,Routine,Follow-up required
+APT0000585,Pain,Routine,
+APT0000586,Respiratory,Routine,
+APT0000587,Skin,Emergency,Patient requested specialist
+APT0000588,Skin,Routine,
+APT0000589,Respiratory,Emergency,Patient requested specialist
+APT0000590,Other,Routine,Review previous report
+APT0000591,Other,Routine,Follow-up required
+APT0000592,Respiratory,Routine,Follow-up required
+APT0000593,Respiratory,Urgent,
+APT0000594,Fever,Urgent,Review previous report
+APT0000595,Injury,Emergency,Review previous report
+APT0000596,Other,Routine,
+APT0000597,Other,Emergency,Review previous report
+APT0000598,Pain,Emergency,Patient requested specialist
+APT0000599,Fever,Routine,
+APT0000600,Pain,Routine,Review previous report
+APT0000601,Other,Emergency,Review previous report
+APT0000602,Other,Emergency,
+APT0000603,Respiratory,Routine,
+APT0000604,Fever,Urgent,
+APT0000605,Respiratory,Routine,Follow-up required
+APT0000606,Routine Check,Emergency,Review previous report
+APT0000607,Other,Routine,
+APT0000608,Respiratory,Routine,Patient requested specialist
+APT0000609,Respiratory,Routine,Patient requested specialist
+APT0000610,Injury,Emergency,Patient requested specialist
+APT0000611,Routine Check,Routine,
+APT0000612,Skin,Routine,
+APT0000613,Routine Check,Routine,Patient requested specialist
+APT0000614,Pain,Urgent,Follow-up required
+APT0000615,Other,Routine,Follow-up required
+APT0000616,Routine Check,Emergency,Follow-up required
+APT0000617,Injury,Routine,Follow-up required
+APT0000618,Skin,Emergency,
+APT0000619,Fever,Routine,
+APT0000620,Respiratory,Urgent,Review previous report
+APT0000621,Respiratory,Routine,Patient requested specialist
+APT0000622,Skin,Urgent,Follow-up required
+APT0000623,Other,Routine,Follow-up required
+APT0000624,Skin,Urgent,Review previous report
+APT0000625,Pain,Emergency,Patient requested specialist
+APT0000626,Skin,Urgent,Patient requested specialist
+APT0000627,Injury,Routine,Follow-up required
+APT0000628,Pain,Emergency,Patient requested specialist
+APT0000629,Injury,Urgent,Patient requested specialist
+APT0000630,Respiratory,Urgent,Patient requested specialist
+APT0000631,Fever,Emergency,
+APT0000632,Routine Check,Urgent,Patient requested specialist
+APT0000633,Routine Check,Emergency,Patient requested specialist
+APT0000634,Respiratory,Urgent,
+APT0000635,Other,Urgent,Follow-up required
+APT0000636,Fever,Routine,Review previous report
+APT0000637,Other,Urgent,Follow-up required
+APT0000638,Skin,Emergency,Patient requested specialist
+APT0000639,Respiratory,Emergency,Follow-up required
+APT0000640,Injury,Urgent,Patient requested specialist
+APT0000641,Skin,Routine,Follow-up required
+APT0000642,Skin,Urgent,
+APT0000643,Skin,Emergency,Patient requested specialist
+APT0000644,Fever,Routine,Patient requested specialist
+APT0000645,Pain,Routine,Patient requested specialist
+APT0000646,Injury,Emergency,Review previous report
+APT0000647,Fever,Routine,Review previous report
+APT0000648,Other,Routine,Review previous report
+APT0000649,Other,Urgent,Review previous report
+APT0000650,Respiratory,Routine,
+APT0000651,Injury,Urgent,Patient requested specialist
+APT0000652,Injury,Urgent,Review previous report
+APT0000653,Routine Check,Routine,
+APT0000654,Fever,Emergency,Patient requested specialist
+APT0000655,Pain,Emergency,
+APT0000656,Skin,Emergency,Follow-up required
+APT0000657,Fever,Routine,Review previous report
+APT0000658,Fever,Routine,Follow-up required
+APT0000659,Injury,Routine,
+APT0000660,Other,Routine,Review previous report
+APT0000661,Fever,Routine,Follow-up required
+APT0000662,Pain,Urgent,Follow-up required
+APT0000663,Respiratory,Routine,Patient requested specialist
+APT0000664,Other,Routine,
+APT0000665,Pain,Routine,
+APT0000666,Routine Check,Routine,Follow-up required
+APT0000667,Injury,Routine,Follow-up required
+APT0000668,Other,Routine,Follow-up required
+APT0000669,Other,Routine,Review previous report
+APT0000670,Injury,Routine,
+APT0000671,Skin,Routine,Review previous report
+APT0000672,Routine Check,Urgent,Patient requested specialist
+APT0000673,Routine Check,Emergency,Review previous report
+APT0000674,Other,Routine,Follow-up required
+APT0000675,Routine Check,Routine,Patient requested specialist
+APT0000676,Other,Routine,Review previous report
+APT0000677,Respiratory,Emergency,
+APT0000678,Routine Check,Routine,
+APT0000679,Skin,Emergency,
+APT0000680,Fever,Routine,
+APT0000681,Respiratory,Routine,Review previous report
+APT0000682,Injury,Routine,
+APT0000683,Injury,Routine,Follow-up required
+APT0000684,Injury,Urgent,Review previous report
+APT0000685,Fever,Routine,
+APT0000686,Respiratory,Routine,
+APT0000687,Fever,Emergency,Review previous report
+APT0000688,Respiratory,Urgent,Patient requested specialist
+APT0000689,Routine Check,Routine,Review previous report
+APT0000690,Injury,Routine,
+APT0000691,Respiratory,Emergency,Patient requested specialist
+APT0000692,Skin,Urgent,Review previous report
+APT0000693,Routine Check,Emergency,
+APT0000694,Skin,Urgent,Review previous report
+APT0000695,Pain,Routine,
+APT0000696,Routine Check,Routine,Follow-up required
+APT0000697,Skin,Routine,Patient requested specialist
+APT0000698,Skin,Urgent,Patient requested specialist
+APT0000699,Routine Check,Routine,Patient requested specialist
+APT0000700,Fever,Routine,Follow-up required
+APT0010000,Pain,Routine,
+APT0010001,Routine Check,Urgent,Patient requested specialist
+APT0010002,Other,Routine,Review previous report
+APT0010003,Pain,Routine,
+APT0010004,Other,Routine,Patient requested specialist
+APT0010005,Pain,Routine,Follow-up required
+APT0010006,Other,Emergency,Patient requested specialist
+APT0010007,Skin,Routine,Patient requested specialist
+APT0010008,Fever,Routine,Patient requested specialist
+APT0010009,Skin,Routine,Follow-up required
+APT0010010,Injury,Emergency,Follow-up required
+APT0010011,Other,Routine,Follow-up required
+APT0010012,Fever,Emergency,Review previous report
+APT0010013,Skin,Emergency,
+APT0010014,Pain,Emergency,Review previous report
+APT0010015,Routine Check,Urgent,
+APT0010016,Respiratory,Routine,Review previous report
+APT0010017,Fever,Routine,Review previous report
+APT0010018,Other,Emergency,Follow-up required
+APT0010019,Pain,Urgent,Patient requested specialist
+APT0010020,Injury,Emergency,
+APT0010021,Respiratory,Urgent,
+APT0010022,Injury,Routine,Patient requested specialist
+APT0010023,Injury,Emergency,Review previous report
+APT0010024,Skin,Emergency,Follow-up required
+APT0010025,Routine Check,Routine,Review previous report
+APT0010026,Fever,Routine,Patient requested specialist
+APT0010027,Skin,Routine,Follow-up required
+APT0010028,Routine Check,Emergency,Follow-up required
+APT0010029,Injury,Routine,Review previous report
+APT0010030,Skin,Routine,Review previous report
+APT0010031,Skin,Urgent,Follow-up required
+APT0010032,Injury,Urgent,Review previous report
+APT0010033,Injury,Routine,Review previous report
+APT0010034,Pain,Routine,Follow-up required
+APT0010035,Respiratory,Routine,Follow-up required
+APT0010036,Pain,Emergency,
+APT0010037,Other,Routine,Follow-up required
+APT0010038,Other,Routine,
+APT0010039,Injury,Urgent,Follow-up required
+APT0010040,Routine Check,Routine,Follow-up required
+APT0010041,Fever,Urgent,Follow-up required
+APT0010042,Routine Check,Routine,
+APT0010043,Respiratory,Routine,Follow-up required
+APT0010044,Respiratory,Emergency,
+APT0010045,Skin,Emergency,Review previous report
+APT0010046,Respiratory,Routine,
+APT0010047,Routine Check,Emergency,Patient requested specialist
+APT0010048,Skin,Routine,Follow-up required
+APT0010049,Pain,Emergency,Patient requested specialist
+APT0010050,Routine Check,Routine,Follow-up required
+APT0010051,Injury,Emergency,Follow-up required
+APT0010052,Pain,Urgent,
+APT0010053,Other,Routine,Patient requested specialist
+APT0010054,Other,Routine,Review previous report
+APT0010055,Other,Routine,Patient requested specialist
+APT0010056,Skin,Routine,Follow-up required
+APT0010057,Routine Check,Urgent,Follow-up required
+APT0010058,Injury,Emergency,Patient requested specialist
+APT0010059,Routine Check,Routine,
+APT0010060,Routine Check,Routine,
+APT0010061,Fever,Routine,Follow-up required
+APT0010062,Pain,Routine,Review previous report
+APT0010063,Respiratory,Urgent,Review previous report
+APT0010064,Pain,Urgent,
+APT0010065,Pain,Emergency,
+APT0010066,Injury,Urgent,Follow-up required
+APT0010067,Routine Check,Emergency,Follow-up required
+APT0010068,Fever,Urgent,
+APT0010069,Other,Routine,
+APT0010070,Routine Check,Emergency,Patient requested specialist
+APT0010071,Other,Routine,Review previous report
+APT0010072,Injury,Routine,Review previous report
+APT0010073,Respiratory,Routine,Follow-up required
+APT0010074,Injury,Urgent,Follow-up required
+APT0010075,Routine Check,Routine,Patient requested specialist
+APT0010076,Fever,Routine,Follow-up required
+APT0010077,Injury,Urgent,Patient requested specialist
+APT0010078,Routine Check,Routine,Review previous report
+APT0010079,Other,Urgent,Follow-up required
+APT0010080,Other,Routine,
+APT0010081,Other,Urgent,Follow-up required
+APT0010082,Injury,Routine,Follow-up required
+APT0010083,Respiratory,Routine,
+APT0010084,Fever,Routine,
+APT0010085,Respiratory,Emergency,Follow-up required
+APT0010086,Other,Routine,
+APT0010087,Routine Check,Emergency,Patient requested specialist
+APT0010088,Other,Routine,
+APT0010089,Injury,Routine,
+APT0010090,Fever,Routine,Patient requested specialist
+APT0010091,Respiratory,Routine,Review previous report
+APT0010092,Injury,Routine,Follow-up required
+APT0010093,Injury,Routine,Patient requested specialist
+APT0010094,Skin,Routine,Follow-up required
+APT0010095,Other,Emergency,Patient requested specialist
+APT0010096,Fever,Urgent,
+APT0010097,Skin,Routine,
+APT0010098,Respiratory,Routine,Review previous report
+APT0010099,Other,Routine,Follow-up required
+APT0010100,Respiratory,Emergency,Review previous report
+APT0010101,Fever,Routine,
+APT0010102,Other,Routine,Follow-up required
+APT0010103,Injury,Urgent,Follow-up required
+APT0010104,Pain,Urgent,
+APT0010105,Other,Routine,Review previous report
+APT0010106,Injury,Routine,
+APT0010107,Other,Routine,Review previous report
+APT0010108,Routine Check,Routine,Follow-up required
+APT0010109,Skin,Routine,Follow-up required
+APT0010110,Other,Emergency,Patient requested specialist
+APT0010111,Respiratory,Emergency,Review previous report
+APT0010112,Other,Urgent,
+APT0010113,Fever,Routine,
+APT0010114,Respiratory,Routine,
+APT0010115,Skin,Routine,Follow-up required
+APT0010116,Injury,Routine,
+APT0010117,Injury,Routine,
+APT0010118,Respiratory,Routine,Review previous report
+APT0010119,Fever,Emergency,
+APT0010120,Fever,Routine,Patient requested specialist
+APT0010121,Other,Emergency,Follow-up required
+APT0010122,Injury,Routine,Patient requested specialist
+APT0010123,Other,Routine,Review previous report
+APT0010124,Skin,Urgent,Patient requested specialist
+APT0010125,Other,Routine,Review previous report
+APT0010126,Routine Check,Urgent,
+APT0010127,Skin,Routine,Follow-up required
+APT0010128,Other,Urgent,
+APT0010129,Skin,Routine,Review previous report
+APT0010130,Fever,Routine,
+APT0010131,Other,Emergency,Follow-up required
+APT0010132,Respiratory,Emergency,Patient requested specialist
+APT0010133,Injury,Urgent,
+APT0010134,Skin,Routine,Review previous report
+APT0010135,Pain,Routine,Review previous report
+APT0010136,Injury,Emergency,Patient requested specialist
+APT0010137,Fever,Routine,
+APT0010138,Routine Check,Emergency,Follow-up required
+APT0010139,Injury,Routine,Review previous report
+APT0010140,Injury,Routine,Patient requested specialist
+APT0010141,Skin,Emergency,Follow-up required
+APT0010142,Injury,Urgent,
+APT0010143,Other,Emergency,Patient requested specialist
+APT0010144,Skin,Routine,Patient requested specialist
+APT0010145,Other,Routine,
+APT0010146,Fever,Routine,Review previous report
+APT0010147,Respiratory,Emergency,Patient requested specialist
+APT0010148,Injury,Urgent,Follow-up required
+APT0010149,Skin,Routine,Review previous report
+APT0010150,Skin,Routine,Review previous report
+APT0010151,Routine Check,Urgent,Patient requested specialist
+APT0010152,Fever,Routine,Follow-up required
+APT0010153,Fever,Urgent,Review previous report
+APT0010154,Other,Urgent,Follow-up required
+APT0010155,Other,Emergency,Follow-up required
+APT0010156,Other,Routine,
+APT0010157,Injury,Routine,Review previous report
+APT0010158,Injury,Routine,Follow-up required
+APT0010159,Other,Routine,Follow-up required
+APT0010160,Other,Routine,Follow-up required
+APT0010161,Injury,Emergency,Review previous report
+APT0010162,Respiratory,Routine,Patient requested specialist
+APT0010163,Injury,Emergency,Patient requested specialist
+APT0010164,Skin,Routine,Review previous report
+APT0010165,Routine Check,Emergency,Patient requested specialist
+APT0010166,Routine Check,Urgent,
+APT0010167,Fever,Routine,Review previous report
+APT0010168,Respiratory,Emergency,Review previous report
+APT0010169,Skin,Emergency,
+APT0010170,Pain,Emergency,
+APT0010171,Skin,Routine,Patient requested specialist
+APT0010172,Other,Routine,
+APT0010173,Respiratory,Routine,Review previous report
+APT0010174,Pain,Routine,Review previous report
+APT0010175,Pain,Routine,
+APT0010176,Routine Check,Routine,Follow-up required
+APT0010177,Injury,Routine,Patient requested specialist
+APT0010178,Pain,Emergency,
+APT0010179,Skin,Routine,Review previous report
+APT0010180,Skin,Urgent,
+APT0010181,Respiratory,Routine,Patient requested specialist
+APT0010182,Routine Check,Routine,Follow-up required
+APT0010183,Respiratory,Urgent,Follow-up required
+APT0010184,Injury,Urgent,Patient requested specialist
+APT0010185,Injury,Emergency,Review previous report
+APT0010186,Other,Routine,Review previous report
+APT0010187,Pain,Urgent,Review previous report
+APT0010188,Pain,Routine,Follow-up required
+APT0010189,Injury,Routine,Follow-up required
+APT0010190,Injury,Routine,Review previous report
+APT0010191,Respiratory,Emergency,Patient requested specialist
+APT0010192,Pain,Emergency,
+APT0010193,Other,Routine,Follow-up required
+APT0010194,Fever,Urgent,Review previous report
+APT0010195,Fever,Routine,Review previous report
+APT0010196,Skin,Urgent,
+APT0010197,Injury,Emergency,
+APT0010198,Pain,Routine,
+APT0010199,Injury,Routine,Patient requested specialist
+APT0010200,Pain,Routine,
+APT0010201,Pain,Urgent,
+APT0010202,Fever,Urgent,
+APT0010203,Routine Check,Urgent,Patient requested specialist
+APT0010204,Skin,Urgent,
+APT0010205,Skin,Routine,Follow-up required
+APT0010206,Skin,Routine,Patient requested specialist
+APT0010207,Routine Check,Emergency,Review previous report
+APT0010208,Other,Urgent,Patient requested specialist
+APT0010209,Skin,Urgent,Follow-up required
+APT0010210,Skin,Emergency,Patient requested specialist
+APT0010211,Skin,Emergency,
+APT0010212,Routine Check,Routine,Review previous report
+APT0010213,Pain,Routine,Patient requested specialist
+APT0010214,Injury,Routine,Patient requested specialist
+APT0010215,Other,Emergency,
+APT0010216,Injury,Routine,Patient requested specialist
+APT0010217,Skin,Routine,
+APT0010218,Respiratory,Routine,Follow-up required
+APT0010219,Respiratory,Urgent,
+APT0010220,Routine Check,Routine,Follow-up required
+APT0010221,Skin,Emergency,Review previous report
+APT0010222,Other,Urgent,Follow-up required
+APT0010223,Respiratory,Routine,Patient requested specialist
+APT0010224,Skin,Routine,Follow-up required
+APT0010225,Pain,Urgent,Follow-up required
+APT0010226,Injury,Emergency,Follow-up required
+APT0010227,Routine Check,Urgent,Follow-up required
+APT0010228,Routine Check,Routine,Patient requested specialist
+APT0010229,Respiratory,Emergency,
+APT0010230,Fever,Urgent,Patient requested specialist
+APT0010231,Respiratory,Routine,Patient requested specialist
+APT0010232,Injury,Routine,Follow-up required
+APT0010233,Other,Routine,Review previous report
+APT0010234,Other,Routine,Follow-up required
+APT0010235,Routine Check,Emergency,Patient requested specialist
+APT0010236,Other,Routine,Patient requested specialist
+APT0010237,Injury,Routine,
+APT0010238,Skin,Routine,Patient requested specialist
+APT0010239,Fever,Urgent,
+APT0010240,Other,Urgent,Patient requested specialist
+APT0010241,Routine Check,Routine,Review previous report
+APT0010242,Respiratory,Routine,Follow-up required
+APT0010243,Injury,Routine,Patient requested specialist
+APT0010244,Routine Check,Routine,
+APT0010245,Other,Routine,Patient requested specialist
+APT0010246,Routine Check,Urgent,
+APT0010247,Other,Emergency,
+APT0010248,Routine Check,Routine,Review previous report
+APT0010249,Pain,Routine,Patient requested specialist
+APT0010250,Respiratory,Emergency,Follow-up required
+APT0010251,Other,Routine,Follow-up required
+APT0010252,Respiratory,Routine,
+APT0010253,Pain,Routine,Patient requested specialist
+APT0010254,Routine Check,Routine,Patient requested specialist
+APT0010255,Routine Check,Routine,Follow-up required
+APT0010256,Pain,Routine,Patient requested specialist
+APT0010257,Routine Check,Urgent,Patient requested specialist
+APT0010258,Fever,Routine,Review previous report
+APT0010259,Respiratory,Emergency,Follow-up required
+APT0010260,Respiratory,Routine,Patient requested specialist
+APT0010261,Injury,Routine,Patient requested specialist
+APT0010262,Skin,Routine,
+APT0010263,Pain,Emergency,Patient requested specialist
+APT0010264,Other,Urgent,Patient requested specialist
+APT0010265,Routine Check,Routine,Patient requested specialist
+APT0010266,Pain,Emergency,Review previous report
+APT0010267,Skin,Routine,Review previous report
+APT0010268,Injury,Routine,Patient requested specialist
+APT0010269,Routine Check,Routine,Follow-up required
+APT0010270,Injury,Routine,Review previous report
+APT0010271,Respiratory,Urgent,Review previous report
+APT0010272,Other,Routine,Follow-up required
+APT0010273,Pain,Urgent,Follow-up required
+APT0010274,Injury,Emergency,Patient requested specialist
+APT0010275,Fever,Routine,Patient requested specialist
+APT0010276,Other,Routine,Review previous report
+APT0010277,Routine Check,Routine,
+APT0010278,Other,Routine,Follow-up required
+APT0010279,Fever,Routine,Follow-up required
+APT0010280,Skin,Urgent,Patient requested specialist
+APT0010281,Routine Check,Emergency,
+APT0010282,Injury,Emergency,Review previous report
+APT0010283,Skin,Emergency,Review previous report
+APT0010284,Fever,Urgent,Patient requested specialist
+APT0010285,Fever,Emergency,Review previous report
+APT0010286,Fever,Urgent,
+APT0010287,Respiratory,Urgent,Patient requested specialist
+APT0010288,Injury,Routine,Follow-up required
+APT0010289,Other,Urgent,
+APT0010290,Skin,Emergency,Review previous report
+APT0010291,Injury,Emergency,Follow-up required
+APT0010292,Routine Check,Urgent,Follow-up required
+APT0010293,Respiratory,Routine,
+APT0010294,Pain,Routine,
+APT0010295,Other,Routine,
+APT0010296,Other,Urgent,Patient requested specialist
+APT0010297,Skin,Emergency,Review previous report
+APT0010298,Other,Urgent,Review previous report
+APT0010299,Injury,Routine,Review previous report
+APT0010300,Respiratory,Urgent,Patient requested specialist
+APT0010301,Routine Check,Urgent,Review previous report
+APT0010302,Other,Urgent,
+APT0010303,Skin,Urgent,Patient requested specialist
+APT0010304,Fever,Routine,Patient requested specialist
+APT0010305,Injury,Urgent,
+APT0010306,Respiratory,Routine,Follow-up required
+APT0010307,Skin,Routine,Review previous report
+APT0010308,Pain,Routine,Review previous report
+APT0010309,Other,Routine,Patient requested specialist
+APT0010310,Pain,Emergency,
+APT0010311,Skin,Routine,Follow-up required
+APT0010312,Injury,Emergency,Patient requested specialist
+APT0010313,Skin,Emergency,Follow-up required
+APT0010314,Respiratory,Emergency,Review previous report
+APT0010315,Other,Urgent,
+APT0010316,Fever,Urgent,Patient requested specialist
+APT0010317,Skin,Routine,
+APT0010318,Respiratory,Routine,Review previous report
+APT0010319,Other,Emergency,Patient requested specialist
+APT0010320,Respiratory,Emergency,Follow-up required
+APT0010321,Skin,Urgent,Patient requested specialist
+APT0010322,Skin,Routine,Review previous report
+APT0010323,Routine Check,Urgent,Review previous report
+APT0010324,Respiratory,Routine,Patient requested specialist
+APT0010325,Fever,Routine,Review previous report
+APT0010326,Pain,Routine,
+APT0010327,Pain,Routine,
+APT0010328,Routine Check,Routine,Follow-up required
+APT0010329,Other,Routine,Follow-up required
+APT0010330,Fever,Routine,Follow-up required
+APT0010331,Pain,Routine,Patient requested specialist
+APT0010332,Fever,Routine,Patient requested specialist
+APT0010333,Respiratory,Urgent,Follow-up required
+APT0010334,Other,Emergency,Review previous report
+APT0010335,Routine Check,Routine,
+APT0010336,Skin,Routine,Follow-up required
+APT0010337,Respiratory,Emergency,Patient requested specialist
+APT0010338,Injury,Urgent,
+APT0010339,Other,Routine,Follow-up required
+APT0010340,Fever,Urgent,Review previous report
+APT0010341,Pain,Routine,
+APT0010342,Fever,Urgent,Patient requested specialist
+APT0010343,Skin,Emergency,Review previous report
+APT0010344,Routine Check,Emergency,Follow-up required
+APT0010345,Pain,Routine,Patient requested specialist
+APT0010346,Injury,Urgent,
+APT0010347,Routine Check,Routine,Follow-up required
+APT0010348,Respiratory,Urgent,Patient requested specialist
+APT0010349,Fever,Urgent,Review previous report
+APT0010350,Respiratory,Routine,Follow-up required
+APT0010351,Pain,Routine,
+APT0010352,Respiratory,Emergency,Patient requested specialist
+APT0010353,Routine Check,Emergency,
+APT0010354,Fever,Emergency,Patient requested specialist
+APT0010355,Injury,Routine,
+APT0010356,Pain,Routine,Follow-up required
+APT0010357,Skin,Routine,Follow-up required
+APT0010358,Fever,Emergency,Review previous report
+APT0010359,Pain,Routine,Patient requested specialist
+APT0010360,Pain,Routine,Follow-up required
+APT0010361,Respiratory,Routine,Follow-up required
+APT0010362,Routine Check,Routine,Review previous report
+APT0010363,Fever,Routine,Follow-up required
+APT0010364,Injury,Routine,Patient requested specialist
+APT0010365,Other,Emergency,Follow-up required
+APT0010366,Skin,Emergency,Follow-up required
+APT0010367,Skin,Routine,Follow-up required
+APT0010368,Skin,Urgent,Review previous report
+APT0010369,Other,Urgent,
+APT0010370,Pain,Emergency,
+APT0010371,Pain,Emergency,Patient requested specialist
+APT0010372,Other,Urgent,Review previous report
+APT0010373,Pain,Urgent,
+APT0010374,Other,Routine,Review previous report
+APT0010375,Respiratory,Routine,
+APT0010376,Pain,Urgent,Review previous report
+APT0010377,Injury,Routine,Patient requested specialist
+APT0010378,Skin,Urgent,
+APT0010379,Fever,Urgent,
+APT0010380,Other,Emergency,
+APT0010381,Respiratory,Routine,
+APT0010382,Respiratory,Emergency,
+APT0010383,Other,Urgent,Follow-up required
+APT0010384,Other,Routine,Patient requested specialist
+APT0010385,Routine Check,Routine,Follow-up required
+APT0010386,Routine Check,Routine,Follow-up required
+APT0010387,Routine Check,Emergency,Review previous report
+APT0010388,Pain,Routine,
+APT0010389,Fever,Emergency,Patient requested specialist
+APT0010390,Respiratory,Urgent,Patient requested specialist
+APT0010391,Routine Check,Urgent,Follow-up required
+APT0010392,Fever,Urgent,Patient requested specialist
+APT0010393,Respiratory,Routine,Follow-up required
+APT0010394,Respiratory,Urgent,
+APT0010395,Injury,Routine,Patient requested specialist
+APT0010396,Injury,Routine,Patient requested specialist
+APT0010397,Fever,Routine,Review previous report
+APT0010398,Fever,Routine,Review previous report
+APT0010399,Skin,Routine,
+APT0010400,Respiratory,Emergency,Follow-up required
+APT0010401,Fever,Emergency,Review previous report
+APT0010402,Injury,Emergency,Patient requested specialist
+APT0010403,Other,Emergency,Patient requested specialist
+APT0010404,Skin,Routine,Review previous report
+APT0010405,Respiratory,Routine,Review previous report
+APT0010406,Fever,Routine,
+APT0010407,Skin,Routine,Patient requested specialist
+APT0010408,Routine Check,Urgent,
+APT0010409,Pain,Routine,Review previous report
+APT0010410,Fever,Routine,Patient requested specialist
+APT0010411,Other,Routine,Patient requested specialist
+APT0010412,Routine Check,Routine,Patient requested specialist
+APT0010413,Fever,Routine,Patient requested specialist
+APT0010414,Respiratory,Routine,Patient requested specialist
+APT0010415,Fever,Routine,
+APT0010416,Skin,Routine,Review previous report
+APT0010417,Pain,Routine,Patient requested specialist
+APT0010418,Pain,Urgent,Review previous report
+APT0010419,Pain,Emergency,
+APT0010420,Injury,Routine,
+APT0010421,Fever,Urgent,Review previous report
+APT0010422,Skin,Urgent,
+APT0010423,Fever,Urgent,
+APT0010424,Pain,Emergency,Review previous report
+APT0010425,Other,Routine,Review previous report
+APT0010426,Pain,Routine,
+APT0010427,Respiratory,Urgent,
+APT0010428,Routine Check,Emergency,Follow-up required
+APT0010429,Fever,Emergency,Follow-up required
+APT0010430,Other,Urgent,Follow-up required
+APT0010431,Pain,Routine,Follow-up required
+APT0010432,Skin,Emergency,
+APT0010433,Fever,Urgent,Follow-up required
+APT0010434,Other,Routine,Follow-up required
+APT0010435,Injury,Routine,Patient requested specialist
+APT0010436,Skin,Emergency,
+APT0010437,Skin,Urgent,Patient requested specialist
+APT0010438,Skin,Urgent,
+APT0010439,Other,Emergency,
+APT0010440,Respiratory,Emergency,Review previous report
+APT0010441,Respiratory,Emergency,Review previous report
+APT0010442,Skin,Routine,
+APT0010443,Fever,Routine,Review previous report
+APT0010444,Fever,Routine,Follow-up required
+APT0010445,Respiratory,Routine,Follow-up required
+APT0010446,Routine Check,Urgent,Review previous report
+APT0010447,Pain,Urgent,
+APT0010448,Injury,Urgent,
+APT0010449,Fever,Routine,
+APT0010450,Skin,Routine,
+APT0010451,Other,Routine,Patient requested specialist
+APT0010452,Respiratory,Routine,Follow-up required
+APT0010453,Other,Routine,
+APT0010454,Fever,Urgent,Patient requested specialist
+APT0010455,Pain,Emergency,Follow-up required
+APT0010456,Respiratory,Urgent,
+APT0010457,Pain,Routine,
+APT0010458,Injury,Urgent,
+APT0010459,Pain,Emergency,Patient requested specialist
+APT0010460,Fever,Routine,Follow-up required
+APT0010461,Pain,Urgent,
+APT0010462,Routine Check,Urgent,Review previous report
+APT0010463,Fever,Urgent,
+APT0010464,Skin,Urgent,Patient requested specialist
+APT0010465,Skin,Emergency,
+APT0010466,Skin,Routine,Follow-up required
+APT0010467,Fever,Routine,Patient requested specialist
+APT0010468,Pain,Routine,Review previous report
+APT0010469,Other,Urgent,Follow-up required
+APT0010470,Respiratory,Urgent,Follow-up required
+APT0010471,Fever,Urgent,Patient requested specialist
+APT0010472,Injury,Urgent,Patient requested specialist
+APT0010473,Fever,Emergency,Follow-up required
+APT0010474,Skin,Urgent,
+APT0010475,Skin,Routine,Patient requested specialist
+APT0010476,Routine Check,Routine,Patient requested specialist
+APT0010477,Fever,Urgent,Review previous report
+APT0010478,Other,Urgent,Patient requested specialist
+APT0010479,Fever,Routine,
+APT0010480,Fever,Urgent,Patient requested specialist
+APT0010481,Respiratory,Routine,
+APT0010482,Respiratory,Routine,Follow-up required
+APT0010483,Routine Check,Routine,Follow-up required
+APT0010484,Pain,Emergency,
+APT0010485,Routine Check,Routine,Patient requested specialist
+APT0010486,Pain,Routine,Follow-up required
+APT0010487,Other,Emergency,Review previous report
+APT0010488,Routine Check,Emergency,
+APT0010489,Routine Check,Urgent,Patient requested specialist
+APT0010490,Fever,Urgent,Patient requested specialist
+APT0010491,Routine Check,Emergency,Review previous report
+APT0010492,Routine Check,Emergency,
+APT0010493,Fever,Routine,Review previous report
+APT0010494,Skin,Emergency,Follow-up required
+APT0010495,Other,Emergency,Review previous report
+APT0010496,Other,Routine,Patient requested specialist
+APT0010497,Injury,Routine,Review previous report
+APT0010498,Pain,Urgent,Follow-up required
+APT0010499,Fever,Routine,Patient requested specialist
+APT0010500,Routine Check,Emergency,
+APT0010501,Other,Urgent,Follow-up required
+APT0010502,Routine Check,Routine,Patient requested specialist
+APT0010503,Respiratory,Urgent,
+APT0010504,Pain,Routine,Follow-up required
+APT0010505,Other,Emergency,Review previous report
+APT0010506,Injury,Routine,
+APT0010507,Fever,Routine,Patient requested specialist
+APT0010508,Routine Check,Emergency,
+APT0010509,Skin,Urgent,
+APT0010510,Skin,Routine,Patient requested specialist
+APT0010511,Other,Routine,Follow-up required
+APT0010512,Skin,Routine,Follow-up required
+APT0010513,Injury,Urgent,Review previous report
+APT0010514,Fever,Urgent,Review previous report
+APT0010515,Routine Check,Urgent,Follow-up required
+APT0010516,Other,Emergency,
+APT0010517,Injury,Urgent,
+APT0010518,Pain,Routine,Patient requested specialist
+APT0010519,Routine Check,Emergency,Review previous report
+APT0010520,Other,Routine,Review previous report
+APT0010521,Pain,Routine,Patient requested specialist
+APT0010522,Pain,Routine,Review previous report
+APT0010523,Pain,Urgent,Review previous report
+APT0010524,Injury,Routine,Follow-up required
+APT0010525,Skin,Emergency,Review previous report
+APT0010526,Routine Check,Emergency,
+APT0010527,Respiratory,Routine,Follow-up required
+APT0010528,Skin,Emergency,Follow-up required
+APT0010529,Respiratory,Routine,
+APT0010530,Skin,Emergency,Review previous report
+APT0010531,Fever,Emergency,Review previous report
+APT0010532,Other,Routine,Follow-up required
+APT0010533,Fever,Emergency,Patient requested specialist
+APT0010534,Other,Urgent,
+APT0010535,Injury,Urgent,Patient requested specialist
+APT0010536,Injury,Emergency,Review previous report
+APT0010537,Routine Check,Routine,Patient requested specialist
+APT0010538,Skin,Routine,Review previous report
+APT0010539,Respiratory,Routine,Follow-up required
+APT0010540,Pain,Routine,Follow-up required
+APT0010541,Fever,Routine,Review previous report
+APT0010542,Respiratory,Routine,Patient requested specialist
+APT0010543,Fever,Routine,Follow-up required
+APT0010544,Routine Check,Routine,
+APT0010545,Skin,Emergency,Follow-up required
+APT0010546,Other,Emergency,Review previous report
+APT0010547,Injury,Routine,Patient requested specialist
+APT0010548,Routine Check,Emergency,Review previous report
+APT0010549,Injury,Urgent,Patient requested specialist
+APT0010550,Pain,Emergency,
+APT0010551,Pain,Urgent,Follow-up required
+APT0010552,Pain,Routine,Patient requested specialist
+APT0010553,Fever,Emergency,Patient requested specialist
+APT0010554,Respiratory,Emergency,Follow-up required
+APT0010555,Fever,Routine,Patient requested specialist
+APT0010556,Respiratory,Routine,Review previous report
+APT0010557,Injury,Urgent,Review previous report
+APT0010558,Routine Check,Emergency,Patient requested specialist
+APT0010559,Other,Routine,Patient requested specialist
+APT0010560,Routine Check,Emergency,
+APT0010561,Pain,Routine,Follow-up required
+APT0010562,Pain,Urgent,
+APT0010563,Routine Check,Emergency,Follow-up required
+APT0010564,Skin,Emergency,Review previous report
+APT0010565,Other,Routine,Follow-up required
+APT0010566,Fever,Routine,Follow-up required
+APT0010567,Other,Routine,
+APT0010568,Pain,Urgent,Patient requested specialist
+APT0010569,Pain,Emergency,
+APT0010570,Injury,Routine,Follow-up required
+APT0010571,Pain,Routine,Patient requested specialist
+APT0010572,Routine Check,Emergency,Patient requested specialist
+APT0010573,Respiratory,Routine,
+APT0010574,Skin,Routine,Follow-up required
+APT0010575,Respiratory,Routine,
+APT0010576,Other,Routine,Follow-up required
+APT0010577,Fever,Urgent,Patient requested specialist
+APT0010578,Injury,Routine,Review previous report
+APT0010579,Respiratory,Emergency,Patient requested specialist
+APT0010580,Pain,Routine,Review previous report
+APT0010581,Fever,Emergency,
+APT0010582,Respiratory,Routine,
+APT0010583,Skin,Routine,
+APT0010584,Pain,Emergency,Review previous report
+APT0010585,Pain,Urgent,
+APT0010586,Pain,Routine,Review previous report
+APT0010587,Injury,Emergency,
+APT0010588,Skin,Emergency,Follow-up required
+APT0010589,Routine Check,Routine,Follow-up required
+APT0010590,Respiratory,Routine,
+APT0010591,Fever,Routine,
+APT0010592,Respiratory,Emergency,Review previous report
+APT0010593,Respiratory,Routine,Patient requested specialist
+APT0010594,Respiratory,Urgent,Review previous report
+APT0010595,Skin,Routine,Patient requested specialist
+APT0010596,Pain,Routine,Follow-up required
+APT0010597,Other,Urgent,Patient requested specialist
+APT0010598,Other,Routine,Follow-up required
+APT0010599,Fever,Urgent,Patient requested specialist
+APT0010600,Fever,Emergency,Review previous report
+APT0010601,Pain,Emergency,Patient requested specialist
+APT0010602,Routine Check,Routine,
+APT0010603,Pain,Urgent,Review previous report
+APT0010604,Injury,Urgent,
+APT0010605,Respiratory,Urgent,Patient requested specialist
+APT0010606,Injury,Emergency,Follow-up required
+APT0010607,Fever,Routine,
+APT0010608,Respiratory,Urgent,Patient requested specialist
+APT0010609,Other,Routine,Patient requested specialist
+APT0010610,Fever,Routine,Patient requested specialist
+APT0010611,Respiratory,Routine,
+APT0010612,Skin,Routine,Patient requested specialist
+APT0010613,Routine Check,Routine,Patient requested specialist
+APT0010614,Respiratory,Emergency,Follow-up required
+APT0010615,Pain,Emergency,
+APT0010616,Skin,Routine,Follow-up required
+APT0010617,Respiratory,Urgent,
+APT0010618,Fever,Emergency,Follow-up required
+APT0010619,Skin,Urgent,Follow-up required
+APT0010620,Other,Routine,Patient requested specialist
+APT0010621,Routine Check,Emergency,
+APT0010622,Injury,Routine,Follow-up required
+APT0010623,Injury,Urgent,
+APT0010624,Pain,Routine,Review previous report
+APT0010625,Pain,Urgent,Patient requested specialist
+APT0010626,Fever,Routine,Review previous report
+APT0010627,Injury,Routine,Patient requested specialist
+APT0010628,Injury,Urgent,Patient requested specialist
+APT0010629,Fever,Urgent,Patient requested specialist
+APT0010630,Skin,Emergency,Patient requested specialist
+APT0010631,Injury,Routine,Review previous report
+APT0010632,Respiratory,Emergency,Review previous report
+APT0010633,Pain,Urgent,Patient requested specialist
+APT0010634,Routine Check,Routine,Follow-up required
+APT0010635,Routine Check,Routine,Patient requested specialist
+APT0010636,Routine Check,Urgent,
+APT0010637,Pain,Urgent,Review previous report
+APT0010638,Skin,Routine,
+APT0010639,Pain,Routine,Patient requested specialist
+APT0010640,Skin,Routine,Review previous report
+APT0010641,Injury,Routine,Review previous report
+APT0010642,Other,Routine,
+APT0010643,Pain,Urgent,Review previous report
+APT0010644,Other,Urgent,
+APT0010645,Routine Check,Urgent,Patient requested specialist
+APT0010646,Fever,Urgent,
+APT0010647,Routine Check,Routine,Follow-up required
+APT0010648,Routine Check,Emergency,Patient requested specialist
+APT0010649,Fever,Emergency,Patient requested specialist
+APT0010650,Routine Check,Routine,
+APT0010651,Other,Urgent,Follow-up required
+APT0010652,Routine Check,Urgent,
+APT0010653,Respiratory,Routine,Follow-up required
+APT0010654,Other,Routine,
+APT0010655,Injury,Routine,Patient requested specialist
+APT0010656,Other,Routine,
+APT0010657,Pain,Emergency,Follow-up required
+APT0010658,Skin,Routine,Follow-up required
+APT0010659,Routine Check,Emergency,Patient requested specialist
+APT0010660,Injury,Emergency,Review previous report
+APT0010661,Skin,Urgent,
+APT0010662,Fever,Emergency,
+APT0010663,Injury,Routine,Follow-up required
+APT0010664,Routine Check,Routine,Patient requested specialist
+APT0010665,Skin,Routine,Patient requested specialist
+APT0010666,Pain,Routine,Patient requested specialist
+APT0010667,Pain,Routine,Review previous report
+APT0010668,Respiratory,Routine,Follow-up required
+APT0010669,Fever,Emergency,Patient requested specialist
+APT0010670,Pain,Emergency,Patient requested specialist
+APT0010671,Skin,Routine,Follow-up required
+APT0010672,Other,Routine,
+APT0010673,Other,Emergency,Patient requested specialist
+APT0010674,Skin,Emergency,Follow-up required
+APT0010675,Skin,Emergency,Patient requested specialist
+APT0010676,Pain,Urgent,Review previous report
+APT0010677,Routine Check,Urgent,Patient requested specialist
+APT0010678,Skin,Urgent,
+APT0010679,Routine Check,Routine,Follow-up required
+APT0010680,Respiratory,Routine,Review previous report
+APT0010681,Injury,Routine,
+APT0010682,Respiratory,Emergency,Follow-up required
+APT0010683,Skin,Emergency,Patient requested specialist
+APT0010684,Skin,Emergency,Patient requested specialist
+APT0010685,Pain,Urgent,Follow-up required
+APT0010686,Pain,Routine,Follow-up required
+APT0010687,Other,Routine,Follow-up required
+APT0010688,Skin,Routine,Follow-up required
+APT0010689,Routine Check,Urgent,Follow-up required
+APT0010690,Fever,Routine,
+APT0010691,Skin,Routine,Follow-up required
+APT0010692,Other,Emergency,Patient requested specialist
+APT0010693,Respiratory,Routine,Review previous report
+APT0010694,Fever,Urgent,Patient requested specialist
+APT0010695,Routine Check,Routine,Patient requested specialist
+APT0010696,Routine Check,Routine,Review previous report
+APT0010697,Injury,Routine,Patient requested specialist
+APT0010698,Fever,Routine,
+APT0010699,Respiratory,Routine,Review previous report
+APT0010700,Pain,Emergency,
+APT0010701,Injury,Routine,Patient requested specialist
+APT0010702,Pain,Routine,
+APT0010703,Routine Check,Routine,Follow-up required
+APT0010704,Injury,Routine,Follow-up required
+APT0010705,Fever,Emergency,Review previous report
+APT0010706,Respiratory,Routine,
+APT0010707,Fever,Routine,Review previous report
+APT0010708,Pain,Emergency,Patient requested specialist
+APT0010709,Injury,Urgent,Follow-up required
+APT0010710,Pain,Routine,
+APT0010711,Routine Check,Routine,
+APT0010712,Routine Check,Routine,Review previous report
+APT0010713,Injury,Routine,Patient requested specialist
+APT0010714,Skin,Urgent,Follow-up required
+APT0010715,Pain,Routine,Review previous report
+APT0010716,Other,Urgent,Follow-up required
+APT0010717,Pain,Urgent,
+APT0010718,Routine Check,Routine,Review previous report
+APT0010719,Pain,Emergency,Patient requested specialist
+APT0010720,Respiratory,Routine,Follow-up required
+APT0010721,Pain,Routine,Patient requested specialist
+APT0010722,Pain,Routine,Follow-up required
+APT0010723,Other,Urgent,Patient requested specialist
+APT0010724,Fever,Routine,Patient requested specialist
+APT0010725,Skin,Routine,Follow-up required
+APT0010726,Injury,Emergency,Follow-up required
+APT0010727,Fever,Routine,Patient requested specialist
+APT0010728,Fever,Routine,
+APT0010729,Fever,Emergency,
+APT0010730,Routine Check,Routine,Follow-up required
+APT0010731,Respiratory,Urgent,Review previous report
+APT0010732,Injury,Routine,Patient requested specialist
+APT0010733,Other,Urgent,Patient requested specialist
+APT0010734,Other,Routine,Follow-up required
+APT0010735,Routine Check,Emergency,Patient requested specialist
+APT0010736,Routine Check,Emergency,Review previous report
+APT0010737,Other,Emergency,
+APT0010738,Injury,Routine,Patient requested specialist
+APT0010739,Routine Check,Emergency,
+APT0010740,Routine Check,Routine,Follow-up required
+APT0010741,Pain,Routine,Review previous report
+APT0010742,Pain,Routine,Follow-up required
+APT0010743,Injury,Routine,Follow-up required
+APT0010744,Respiratory,Routine,Follow-up required
+APT0010745,Injury,Emergency,Patient requested specialist
+APT0010746,Respiratory,Routine,Follow-up required
+APT0010747,Respiratory,Urgent,Patient requested specialist
+APT0010748,Other,Routine,Patient requested specialist
+APT0010749,Pain,Routine,Patient requested specialist
+APT0010750,Injury,Routine,Patient requested specialist
+APT0010751,Routine Check,Emergency,
+APT0010752,Fever,Emergency,
+APT0010753,Respiratory,Routine,Patient requested specialist
+APT0010754,Fever,Emergency,Review previous report
+APT0010755,Skin,Routine,Patient requested specialist
+APT0010756,Routine Check,Routine,Review previous report
+APT0010757,Skin,Emergency,Follow-up required
+APT0010758,Skin,Routine,Review previous report
+APT0010759,Fever,Routine,Review previous report
+APT0010760,Injury,Routine,Patient requested specialist
+APT0010761,Respiratory,Emergency,Patient requested specialist
+APT0010762,Other,Routine,Follow-up required
+APT0010763,Skin,Routine,Review previous report
+APT0010764,Routine Check,Urgent,Patient requested specialist
+APT0010765,Fever,Urgent,Patient requested specialist
+APT0010766,Skin,Routine,
+APT0010767,Skin,Emergency,
+APT0010768,Respiratory,Routine,Review previous report
+APT0010769,Pain,Routine,Review previous report
+APT0010770,Routine Check,Routine,
+APT0010771,Respiratory,Emergency,
+APT0010772,Routine Check,Routine,Review previous report
+APT0010773,Other,Routine,Follow-up required
+APT0010774,Routine Check,Routine,Patient requested specialist
+APT0010775,Injury,Routine,Review previous report
+APT0010776,Fever,Urgent,
+APT0010777,Pain,Routine,
+APT0010778,Pain,Emergency,
+APT0010779,Routine Check,Routine,Follow-up required
+APT0010780,Injury,Routine,
+APT0010781,Other,Emergency,Follow-up required
+APT0010782,Pain,Urgent,
+APT0010783,Injury,Routine,Patient requested specialist
+APT0010784,Pain,Emergency,Follow-up required
+APT0010785,Fever,Routine,
+APT0010786,Other,Routine,
+APT0010787,Other,Routine,Review previous report
+APT0010788,Other,Routine,
+APT0010789,Respiratory,Routine,Follow-up required
+APT0010790,Pain,Urgent,Patient requested specialist
+APT0010791,Respiratory,Emergency,Follow-up required
+APT0010792,Routine Check,Routine,Follow-up required
+APT0010793,Pain,Routine,
+APT0010794,Fever,Routine,Review previous report
+APT0010795,Routine Check,Routine,
+APT0010796,Skin,Routine,Review previous report
+APT0010797,Skin,Routine,Follow-up required
+APT0010798,Routine Check,Urgent,Patient requested specialist
+APT0010799,Respiratory,Routine,
+APT0010800,Routine Check,Routine,Patient requested specialist
+APT0010801,Injury,Urgent,Follow-up required
+APT0010802,Routine Check,Routine,Patient requested specialist
+APT0010803,Skin,Routine,
+APT0010804,Skin,Emergency,Follow-up required
+APT0010805,Fever,Urgent,Patient requested specialist
+APT0010806,Fever,Urgent,Follow-up required
+APT0010807,Routine Check,Emergency,
+APT0010808,Routine Check,Urgent,Follow-up required
+APT0010809,Fever,Emergency,Patient requested specialist
+APT0010810,Other,Routine,Patient requested specialist
+APT0010811,Routine Check,Routine,Review previous report
+APT0010812,Other,Emergency,Review previous report
+APT0010813,Skin,Routine,Patient requested specialist
+APT0010814,Skin,Urgent,Follow-up required
+APT0010815,Pain,Emergency,Patient requested specialist
+APT0010816,Injury,Routine,Follow-up required
+APT0010817,Injury,Urgent,
+APT0010818,Skin,Urgent,Review previous report
+APT0010819,Pain,Urgent,
+APT0010820,Other,Emergency,Follow-up required
+APT0010821,Fever,Emergency,
+APT0010822,Routine Check,Routine,
+APT0010823,Skin,Urgent,Follow-up required
+APT0010824,Skin,Routine,Patient requested specialist
+APT0010825,Injury,Emergency,Review previous report
+APT0010826,Injury,Routine,
+APT0010827,Other,Routine,Review previous report
+APT0010828,Routine Check,Routine,Review previous report
+APT0010829,Skin,Emergency,Review previous report
+APT0010830,Pain,Urgent,Follow-up required
+APT0010831,Routine Check,Urgent,Follow-up required
+APT0010832,Respiratory,Emergency,
+APT0010833,Skin,Urgent,Follow-up required
+APT0010834,Fever,Routine,Follow-up required
+APT0010835,Respiratory,Routine,Patient requested specialist
+APT0010836,Other,Routine,
+APT0010837,Routine Check,Routine,Follow-up required
+APT0010838,Pain,Routine,Follow-up required
+APT0010839,Pain,Routine,Review previous report
+APT0010840,Pain,Routine,Patient requested specialist
+APT0010841,Routine Check,Routine,Follow-up required
+APT0010842,Skin,Routine,Patient requested specialist
+APT0010843,Other,Emergency,Review previous report
+APT0010844,Other,Routine,Review previous report
+APT0010845,Other,Urgent,Follow-up required
+APT0010846,Other,Urgent,Follow-up required
+APT0010847,Fever,Urgent,Review previous report
+APT0010848,Routine Check,Routine,Patient requested specialist
+APT0010849,Injury,Urgent,Follow-up required

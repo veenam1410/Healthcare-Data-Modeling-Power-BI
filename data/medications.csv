@@ -1,0 +1,9 @@
+medication_code,medication_name,form,unit_price
+MED01,Atorvastatin,Tablet,12
+MED02,Metformin,Tablet,8
+MED03,Amoxicillin,Capsule,6
+MED04,Ibuprofen,Tablet,4
+MED05,Cetirizine,Tablet,3
+MED06,Pantoprazole,Tablet,2
+MED07,Vitamin D,Capsule,5
+MED08,Amlodipine,Tablet,7

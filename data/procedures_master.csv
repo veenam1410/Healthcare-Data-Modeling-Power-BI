@@ -1,0 +1,9 @@
+procedure_code,procedure_name,department,standard_price
+PR01,ECG,Cardiology,250
+PR02,X-Ray,Radiology,180
+PR03,MRI,Radiology,900
+PR04,Physiotherapy,Orthopedics,350
+PR05,Blood Test,Laboratory,120
+PR06,Ultrasound,Radiology,450
+PR07,Minor Surgery,General,1200
+PR08,CT Scan,Radiology,750
