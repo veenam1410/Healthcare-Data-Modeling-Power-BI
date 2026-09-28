@@ -323,7 +323,7 @@ Healthcare-Data-Modeling-Power-BI/
 │   └── healthcare_data_model.pbix
 │
 └── screenshots/
-    └── data-model.png
+    └── healthcare_data_model.png
 ```
 ### 👩‍💻 Author
 
